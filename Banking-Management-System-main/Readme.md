@@ -68,5 +68,5 @@ The API documentation can be found at http://localhost:4000/api-docs
 
 ## Author
 
-> [
-> Halazv2](https://github.com/Halazv2 "Halazv2")
+ANSHUL MAHAJAN 
+https://github.com/anshulmahajan14
